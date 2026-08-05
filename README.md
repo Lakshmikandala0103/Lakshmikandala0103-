@@ -2,13 +2,13 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020d0f,50:0077a8,100:00b4d8&height=220&section=header&text=Lakshmi%20S%20Kandala&fontSize=42&fontColor=e8f4f8&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%2F%20Robotics%20Engineering&descAlignY=55&descSize=18&fontFamily=JetBrains+Mono" width="100%"/>
 
-<a href="https://lakshmikandala0103.github.io">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineering+Student;Silicon+to+Software+%E2%9A%A1;Embedded+%7C+Robotics+%7C+Full-Stack;Building+systems+that+move+%26+think;lakshmikandala0103.github.io" alt="Typing SVG" width="600" height="50" style="font-family: monospace;" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?lines=SJSU+%7C+Computer+Engineering;Aspiring+Embedded+%2F+Robotics+Engineer;Embedded+%7C+Robotics+%7C+Full-Stack&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=E6399B&vCenter=true&size=22&weight=600" alt="Typing SVG" width="600" height="50" style="font-family: monospace;" />
 
 <br/>
 
+<a href="https://lakshmikandala0103.github.io">
 <img src="https://img.shields.io/badge/PORTFOLIO-lakshmikandala0103.github.io-020d0f?style=for-the-badge&logo=googlechrome&logoColor=00b4d8&labelColor=020d0f" />
+</a>
 <img src="https://img.shields.io/badge/FOCUS-Embedded%20%2F%20Robotics-020d0f?style=for-the-badge&logo=raspberrypi&logoColor=00c896&labelColor=020d0f" />
 
 </div>
@@ -17,14 +17,15 @@
 
 ## `{ }` About
 
-```
-> whoami
-Lakshmi S Kandala — Computer Engineering student
-> focus
-Embedded Systems & Robotics Engineering
-> philosophy
-"Fluent in both the circuit and the code that drives it."
-```
+<p align="center">
+Computer Engineering student at San Jose State University, aspiring embedded systems & robotics engineer — bridging hardware and software into intelligent, real-world systems.
+</p>
+
+<div align="center">
+
+🎓 **SJSU** &nbsp;·&nbsp; 🔧 **Embedded Systems** &nbsp;·&nbsp; 🤖 **Robotics** &nbsp;·&nbsp; 💻 **Full-Stack**
+
+</div>
 
 <br/>
 
@@ -77,24 +78,11 @@ Embedded Systems & Robotics Engineering
 
 <br/>
 
-## `◈` GitHub Stats
-
-<div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lakshmikandala0103&show_icons=true&hide_border=true&bg_color=020d0f&title_color=00b4d8&icon_color=00b4d8&text_color=e8f4f8&border_color=0077a8" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Lakshmikandala0103&hide_border=true&background=020d0f&ring=00b4d8&fire=00c896&currStreakLabel=00b4d8&sideLabels=e8f4f8&dates=5f8fa0" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmikandala0103&layout=compact&hide_border=true&bg_color=020d0f&title_color=00b4d8&text_color=e8f4f8" />
-</div>
-
-<br/>
-
 ## `⬢` Featured Work
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshmikandala0103&repo=numina&hide_border=true&bg_color=020d0f&title_color=00b4d8&text_color=e8f4f8&icon_color=00c896" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshmikandala0103&repo=Lakshmikandala0103.github.io&hide_border=true&bg_color=020d0f&title_color=00b4d8&text_color=e8f4f8&icon_color=00c896" />
+<img src="https://github-readme-stats-six-alpha-62.vercel.app/api/pin/?username=Lakshmikandala0103&repo=numina&hide_border=true&bg_color=020d0f&title_color=00b4d8&text_color=e8f4f8&icon_color=00c896" />
+<img src="https://github-readme-stats-six-alpha-62.vercel.app/api/pin/?username=Lakshmikandala0103&repo=Lakshmikandala0103.github.io&hide_border=true&bg_color=020d0f&title_color=00b4d8&text_color=e8f4f8&icon_color=00c896" />
 </div>
 
 <div align="center">
@@ -112,8 +100,23 @@ Embedded Systems & Robotics Engineering
 ## `⚙` Connect
 
 <div align="center">
+
+<a href="https://lakshmikandala0103.github.io">
 <img src="https://img.shields.io/badge/Portfolio-020d0f?style=for-the-badge&logo=googlechrome&logoColor=00b4d8&labelColor=020d0f" />
-<!-- Add LinkedIn / email badges here once you share the links, styled with color=00b4d8 to match -->
+</a>
+<a href="https://github.com/Lakshmikandala0103">
+<img src="https://img.shields.io/badge/GitHub-020d0f?style=for-the-badge&logo=github&logoColor=00b4d8&labelColor=020d0f" />
+</a>
+<a href="https://www.linkedin.com/in/lakshmi-s-kandala/">
+<img src="https://img.shields.io/badge/LinkedIn-020d0f?style=for-the-badge&logo=linkedin&logoColor=00b4d8&labelColor=020d0f" />
+</a>
+<a href="https://instagram.com/lakshmixo_31">
+<img src="https://img.shields.io/badge/Instagram-020d0f?style=for-the-badge&logo=instagram&logoColor=00b4d8&labelColor=020d0f" />
+</a>
+<a href="mailto:lakshmi.kandala@sjsu.edu">
+<img src="https://img.shields.io/badge/Gmail-020d0f?style=for-the-badge&logo=gmail&logoColor=00b4d8&labelColor=020d0f" />
+</a>
+
 </div>
 
 <br/>
