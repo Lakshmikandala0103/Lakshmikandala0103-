@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Lakshmikandala0103/Lakshmikandala0103-/refs/heads/main/banner%20(1).svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Lakshmikandala0103/Lakshmikandala0103-/refs/heads/main/banner%20(2).svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=SJSU+%7C+Computer+Engineering;Aspiring+Embedded+%2F+Robotics+Engineer;Embedded+%7C+Robotics+%7C+Full-Stack&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=00B4D8&vCenter=true&size=22&weight=600" alt="Typing SVG" width="600" height="50" style="font-family: monospace;" />
+<img src="https://readme-typing-svg.demolab.com/?lines=SJSU+%7C+Computer+Engineering;Aspiring+Embedded+%2F+Robotics+Engineer;Embedded+%7C+Robotics+%7C+Full-Stack&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=00B4D8&vCenter=true&size=15&weight=600" alt="Typing SVG" width="600" height="50" style="font-family: monospace;" />
 
 <br/>
 
