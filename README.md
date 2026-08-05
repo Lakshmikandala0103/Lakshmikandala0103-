@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020d0f,50:0077a8,100:00b4d8&height=220&section=header&text=Lakshmi%20S%20Kandala&fontSize=42&fontColor=e8f4f8&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%2F%20Robotics%20Engineering&descAlignY=55&descSize=18&fontFamily=JetBrains+Mono" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=SJSU+%7C+Computer+Engineering;Aspiring+Embedded+%2F+Robotics+Engineer;Embedded+%7C+Robotics+%7C+Full-Stack&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=E6399B&vCenter=true&size=22&weight=600" alt="Typing SVG" width="600" height="50" style="font-family: monospace;" />
+<img src="https://readme-typing-svg.demolab.com/?lines=%3E+SJSU+%7C+Computer+Engineering;%3E+Aspiring+Embedded+%2F+Robotics+Engineer;%3E+Embedded+%7C+Robotics+%7C+Full-Stack&font=Fira+Code&center=true&width=600&height=50&duration=3000&pause=800&color=00B4D8&vCenter=true&size=22&weight=600" alt="Typing SVG" width="600" height="50" style="font-family: monospace;" />
 
 <br/>
 
